@@ -1,4 +1,3 @@
-import "./index.css";
 import HomePage from "./scenes/homePage";
 import HomePageTwo from "./scenes/homePageTwo";
 import LoginPage from "./scenes/loginPage";
