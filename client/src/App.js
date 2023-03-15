@@ -3,7 +3,6 @@ import HomePageTwo from "./scenes/homePageTwo";
 import LoginPage from "./scenes/loginPage";
 import RegisterPage from "./scenes/registerPage";
 import { Routes, Route } from "react-router-dom";
-
 function App() {
   return (
     <>
