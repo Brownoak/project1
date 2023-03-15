@@ -1,0 +1,49 @@
+
+.banner {
+  width: 400px;
+}
+
+.assure{
+  font-size: 0.8rem;
+}
+
+.img {
+  height: 100px;
+  display: flex;
+  margin: auto;
+}
+
+.wrapper_left{
+  background-image: linear-gradient(to bottom, #7c60ff , #c8b9fc);
+}
+
+.btn_color{
+  background-image: linear-gradient(to right, #7c60ff , #8ba5ff);
+}
+.btn_color:hover{
+  background-image: linear-gradient(to right,  #9f8def , #a7b3df);
+}
+
+.borderbtm{
+  border-bottom: 1px solid black;
+}
+.forgetPwd{
+  color:#7c60ff;
+  cursor: pointer;
+}
+.forgetPwd:hover{
+  color: #c8b9fc;
+}
+
+.terms{
+  font-size: 0.8rem;
+}
+
+hr{
+  height: 0.2px;
+  background: black;
+}
+.hr{
+  font-size: 0.8rem;
+}
+
