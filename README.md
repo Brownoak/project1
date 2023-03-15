@@ -1,8 +1,8 @@
 # project1
 
-# Authenication page MERN stack implementation
+## Authenication page MERN stack implementation
 
-# Bootstrap 4 is used for styling purpose 
+## Bootstrap 4 is used for styling purpose 
 
 ## The UI looks as follows:-
 
